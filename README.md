@@ -8,8 +8,9 @@ The first pixar movies primarily focus on individual growth and personal relatio
 
 Quantifiable measurements on the subtitle text:
 - Usage of "I" instead of "we"
-- Number of character appearances per scene
-- Emotional content / sentiment anallysis, sentiment classification
+- Number of times characters, places are mentioned
+- Which character has the most dialogue
+- Emotional content / sentiment analysis, sentiment classification
 - How much dialogue does a certain character have?
 
 ### Python packages
