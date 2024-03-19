@@ -1,6 +1,6 @@
 ## Evolution of Kids Movies
 
-Some description.
+This is a research paper.
 
 [Link to google](https://google.com)
 
